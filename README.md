@@ -14,8 +14,8 @@
 - 📫 How to reach me ...      
 <ul dir="auto">
 <li><a href="https://www.facebook.com/tiago.pedro.ti22"  rel="nofollow" target="_blank">Facebook</a></li>
-<li><a href="https://www.instagram.com/tiago.pedro22.tp/" rel="nofollow">Instagram</a></li>
-       <li><a href="https://www.linkedin.com/in/tiago-pedro-3b8b94104/" rel="nofollow">Linkedin</a></li>
+<li><a href="https://www.instagram.com/tiago.pedro22.tp/" rel="nofollow" target="_blank">Instagram</a></li>
+       <li><a href="https://www.linkedin.com/in/tiago-pedro-3b8b94104/"  target="_blank">Linkedin</a></li>
 </ul>
       
 <!---
