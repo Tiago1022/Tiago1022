@@ -1,5 +1,3 @@
-<a href="/brunopulis/brunopulis" class="no-underline Link--primary">brunopulis</a>
-
 - 👋 My name is Tiago Pedro. I am Brazilian. I started my career as a Support Analyst and today I'm looking to start a career in software testing and quality.
 
 - 👀 I'm interested in 
