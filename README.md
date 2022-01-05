@@ -12,7 +12,8 @@
 - 💞️ I'm looking to collaborate on...
         Software Testing and Quality
 - 📫 How to reach me ...
-      https://www.linkedin.com/in/tiago-pedro-3b8b94104/
+       <a href=" https://www.linkedin.com/in/tiago-pedro-3b8b94104/" rel="nofollow">Linkedin</a>
+     
       https://www.facebook.com/tiago.pedro.ti22
       https://www.instagram.com/tiago.pedro22.tp/
       
